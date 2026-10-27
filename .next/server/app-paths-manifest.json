@@ -1,0 +1,9 @@
+{
+  "/api/prices/binance/route": "app/api/prices/binance/route.js",
+  "/page": "app/page.js",
+  "/trade/page": "app/trade/page.js",
+  "/credit/page": "app/credit/page.js",
+  "/funding/page": "app/funding/page.js",
+  "/coach/page": "app/coach/page.js",
+  "/verify/page": "app/verify/page.js"
+}
